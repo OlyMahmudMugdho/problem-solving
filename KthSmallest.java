@@ -1,5 +1,9 @@
-import java.util.ArrayList;
-import java.util.Arrays;
+// Name : Kth Smallest
+// Difficulty: Medium
+// Accuracy: 35.17%
+// Link : https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
+
+
 import java.util.PriorityQueue;
 
 public class KthSmallest {
